@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@storybook/core-common": "workspace:*",
-    "@storybook/preview-api": "workspace:*",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/types": "workspace:*",
     "@types/doctrine": "^0.0.3",
     "doctrine": "^3.0.0",
