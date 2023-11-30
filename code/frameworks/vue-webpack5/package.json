@@ -50,7 +50,7 @@
     "@storybook/builder-webpack5": "workspace:*",
     "@storybook/core-common": "workspace:*",
     "@storybook/preset-vue-webpack": "workspace:*",
-    "@storybook/vue": "workspace:*",
+    "@storybook/vue": "3.2.0",
     "@types/node": "^16.0.0"
   },
   "devDependencies": {
