@@ -47,7 +47,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-vite": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
     "@storybook/node-logger": "workspace:*",
     "@storybook/svelte": "workspace:*",
     "@sveltejs/vite-plugin-svelte": "^2.4.2",
