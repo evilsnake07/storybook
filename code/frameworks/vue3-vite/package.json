@@ -47,7 +47,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-vite": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
     "@storybook/core-server": "workspace:*",
     "@storybook/vue3": "workspace:*",
     "@vitejs/plugin-vue": "^4.0.0",
