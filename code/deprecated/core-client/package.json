@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@storybook/client-logger": "workspace:*",
-    "@storybook/preview-api": "workspace:*"
+    "@storybook/preview-api": "7.0.0"
   },
   "publishConfig": {
     "access": "public"
