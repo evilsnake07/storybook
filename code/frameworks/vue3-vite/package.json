@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@storybook/builder-vite": "workspace:*",
-    "@storybook/core-server": "workspace:*",
+    "@storybook/core-server": "6.5.6",
     "@storybook/vue3": "workspace:*",
     "@vitejs/plugin-vue": "^4.0.0",
     "magic-string": "^0.30.0",
