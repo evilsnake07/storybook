@@ -115,7 +115,7 @@
     "@storybook/addon-measure": "workspace:*",
     "@storybook/addon-outline": "workspace:*",
     "@storybook/addon-storyshots": "workspace:*",
-    "@storybook/addon-storyshots-puppeteer": "workspace:*",
+    "@storybook/addon-storyshots-puppeteer": "7.6.1",
     "@storybook/addon-storysource": "workspace:*",
     "@storybook/addon-toolbars": "workspace:*",
     "@storybook/addon-viewport": "workspace:*",
