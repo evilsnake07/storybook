@@ -64,7 +64,7 @@
   "dependencies": {
     "@storybook/core-events": "workspace:*",
     "@storybook/global": "^5.0.0",
-    "@storybook/preview-api": "workspace:*"
+    "@storybook/preview-api": "7.0.0"
   },
   "devDependencies": {
     "@types/webpack-env": "^1.16.0",
