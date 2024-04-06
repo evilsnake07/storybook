@@ -223,7 +223,7 @@
     "esbuild": "^0.18.0",
     "esbuild-loader": "^3.0.0",
     "esbuild-plugin-alias": "^0.2.1",
-    "eslint": "^8.28.0",
+    "eslint": "^9.0.0",
     "eslint-import-resolver-typescript": "^3.5.2",
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-local-rules": "portal:../scripts/eslint-plugin-local-rules",
