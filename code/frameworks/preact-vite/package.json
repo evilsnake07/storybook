@@ -48,8 +48,8 @@
   },
   "dependencies": {
     "@preact/preset-vite": "^2.0.0",
-    "@storybook/builder-vite": "workspace:*",
-    "@storybook/preact": "workspace:*"
+    "@storybook/builder-vite": "0.1.22",
+    "@storybook/preact": "5.0.0"
   },
   "devDependencies": {
     "@types/node": "^16.0.0",
