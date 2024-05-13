@@ -47,10 +47,10 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-vite": "workspace:*",
-    "@storybook/core-server": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
+    "@storybook/core-server": "6.2.0",
     "@storybook/node-logger": "workspace:*",
-    "@storybook/web-components": "workspace:*",
+    "@storybook/web-components": "5.3.0",
     "magic-string": "^0.30.0"
   },
   "devDependencies": {
