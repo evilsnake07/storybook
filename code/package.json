@@ -100,7 +100,7 @@
     "@emotion/jest": "^11.10.0",
     "@jest/globals": "^29.3.1",
     "@nx/workspace": "16.2.1",
-    "@playwright/test": "1.36.0",
+    "@playwright/test": "1.38.0",
     "@storybook/addon-a11y": "workspace:*",
     "@storybook/addon-actions": "workspace:*",
     "@storybook/addon-backgrounds": "workspace:*",
