@@ -32,7 +32,7 @@
     "prep": "../../../scripts/prepare/tsc.ts"
   },
   "dependencies": {
-    "@storybook/builder-webpack5": "workspace:*",
+    "@storybook/builder-webpack5": "7.1.0",
     "@storybook/core-common": "workspace:*",
     "@storybook/docs-tools": "workspace:*",
     "@storybook/global": "^5.0.0",
