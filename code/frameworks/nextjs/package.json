@@ -93,7 +93,7 @@
     "@babel/preset-typescript": "^7.22.5",
     "@babel/runtime": "^7.22.6",
     "@storybook/addon-actions": "workspace:*",
-    "@storybook/builder-webpack5": "workspace:*",
+    "@storybook/builder-webpack5": "7.1.0",
     "@storybook/core-common": "workspace:*",
     "@storybook/node-logger": "workspace:*",
     "@storybook/preset-react-webpack": "workspace:*",
