@@ -46,7 +46,7 @@
     "@storybook/channels": "workspace:*",
     "@storybook/client-logger": "workspace:*",
     "@storybook/core-common": "workspace:*",
-    "@storybook/csf-plugin": "workspace:*",
+    "@storybook/csf-plugin": "7.1.0",
     "@storybook/mdx2-csf": "^1.0.0",
     "@storybook/node-logger": "workspace:*",
     "@storybook/preview": "workspace:*",
