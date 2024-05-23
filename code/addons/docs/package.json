@@ -103,7 +103,7 @@
     "@storybook/blocks": "workspace:*",
     "@storybook/client-logger": "workspace:*",
     "@storybook/components": "workspace:*",
-    "@storybook/csf-plugin": "workspace:*",
+    "@storybook/csf-plugin": "7.1.0",
     "@storybook/csf-tools": "workspace:*",
     "@storybook/global": "^5.0.0",
     "@storybook/mdx2-csf": "^1.0.0",
