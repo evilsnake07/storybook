@@ -54,9 +54,9 @@
   "dependencies": {
     "@storybook/client-logger": "workspace:*",
     "@storybook/core-client": "workspace:*",
-    "@storybook/docs-tools": "workspace:*",
+    "@storybook/docs-tools": "6.5.0",
     "@storybook/global": "^5.0.0",
-    "@storybook/manager-api": "workspace:*",
+    "@storybook/manager-api": "7.0.0",
     "@storybook/preview-api": "workspace:*",
     "@storybook/types": "workspace:*",
     "tiny-invariant": "^1.3.1",
