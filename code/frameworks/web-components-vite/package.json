@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@storybook/builder-vite": "workspace:*",
-    "@storybook/core-server": "workspace:*",
+    "@storybook/core-server": "8.1.6",
     "@storybook/node-logger": "workspace:*",
     "@storybook/web-components": "workspace:*",
     "magic-string": "^0.30.0"
