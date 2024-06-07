@@ -49,7 +49,7 @@
   "dependencies": {
     "@storybook/builder-webpack5": "workspace:*",
     "@storybook/core-common": "workspace:*",
-    "@storybook/preset-server-webpack": "workspace:*",
+    "@storybook/preset-server-webpack": "8.1.6",
     "@storybook/server": "workspace:*",
     "@types/node": "^16.0.0"
   },
