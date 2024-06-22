@@ -49,7 +49,7 @@
   "dependencies": {
     "@storybook/builder-webpack5": "workspace:*",
     "@storybook/core-common": "workspace:*",
-    "@storybook/preset-vue3-webpack": "workspace:*",
+    "@storybook/preset-vue3-webpack": "7.0.0",
     "@storybook/vue3": "workspace:*",
     "@types/node": "^16.0.0"
   },
