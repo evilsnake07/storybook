@@ -62,7 +62,7 @@
   "dependencies": {
     "@aw-web-design/x-default-browser": "1.4.126",
     "@discoveryjs/json-ext": "^0.5.3",
-    "@storybook/builder-manager": "workspace:*",
+    "@storybook/builder-manager": "8.2.0",
     "@storybook/channels": "workspace:*",
     "@storybook/core-common": "workspace:*",
     "@storybook/core-events": "workspace:*",
