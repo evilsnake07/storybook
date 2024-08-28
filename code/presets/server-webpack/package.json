@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "@storybook/core-server": "workspace:*",
-    "@storybook/core-webpack": "workspace:*",
+    "@storybook/core-webpack": "7.0.0",
     "@storybook/global": "^5.0.0",
     "@storybook/server": "workspace:*",
     "@types/node": "^16.0.0",
