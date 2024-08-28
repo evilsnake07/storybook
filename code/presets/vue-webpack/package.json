@@ -59,20 +59,20 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-webpack": "workspace:*",
+    "@storybook/core-webpack": "7.0.0",
     "@storybook/docs-tools": "workspace:*",
     "@types/node": "^16.0.0",
     "ts-loader": "^9.2.8",
     "vue-docgen-api": "^4.44.23",
     "vue-docgen-loader": "^1.5.1",
-    "webpack": "5"
+    "webpack": "5.94.0"
   },
   "devDependencies": {
     "typescript": "~4.9.3",
     "vue": "^2.6.12",
     "vue-loader": "^15.7.0",
     "vue-template-compiler": "^2.6.14",
-    "webpack": "5"
+    "webpack": "5.94.0"
   },
   "peerDependencies": {
     "@babel/core": "*",
