@@ -51,7 +51,7 @@
   "dependencies": {
     "@babel/plugin-transform-react-jsx": "^7.22.5",
     "@babel/preset-typescript": "^7.22.5",
-    "@storybook/core-webpack": "workspace:*",
+    "@storybook/core-webpack": "7.0.0",
     "@types/node": "^16.0.0"
   },
   "devDependencies": {
