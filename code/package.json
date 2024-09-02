@@ -183,7 +183,7 @@
     "@storybook/source-loader": "workspace:*",
     "@storybook/store": "workspace:*",
     "@storybook/svelte": "workspace:*",
-    "@storybook/svelte-webpack5": "workspace:*",
+    "@storybook/svelte-webpack5": "7.0.0",
     "@storybook/telemetry": "workspace:*",
     "@storybook/testing-library": "next",
     "@storybook/theming": "workspace:*",
