@@ -54,7 +54,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-server": "workspace:*",
+    "@storybook/core-server": "6.2.0",
     "@storybook/core-webpack": "workspace:*",
     "@storybook/global": "^5.0.0",
     "@storybook/server": "workspace:*",
