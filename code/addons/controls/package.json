@@ -69,7 +69,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/blocks": "workspace:*",
+    "@storybook/blocks": "8.2.0",
     "@storybook/client-logger": "workspace:*",
     "@storybook/components": "workspace:*",
     "@storybook/core-common": "workspace:*",
