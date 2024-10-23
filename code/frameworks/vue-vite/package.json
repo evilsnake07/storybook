@@ -50,7 +50,7 @@
     "@storybook/builder-vite": "workspace:*",
     "@storybook/core-common": "workspace:*",
     "@storybook/core-server": "workspace:*",
-    "@storybook/vue": "workspace:*",
+    "@storybook/vue": "7.6.17",
     "magic-string": "^0.30.0",
     "vue-docgen-api": "^4.40.0"
   },
