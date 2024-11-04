@@ -52,7 +52,7 @@
   "dependencies": {
     "@storybook/builder-vite": "workspace:*",
     "@storybook/svelte": "workspace:*",
-    "@storybook/svelte-vite": "workspace:*"
+    "@storybook/svelte-vite": "8.4.0"
   },
   "devDependencies": {
     "@types/node": "^16.0.0",
