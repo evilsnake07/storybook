@@ -48,8 +48,8 @@
   },
   "dependencies": {
     "@storybook/builder-webpack5": "workspace:*",
-    "@storybook/preset-react-webpack": "workspace:*",
-    "@storybook/react": "workspace:*",
+    "@storybook/preset-react-webpack": "7.6.0",
+    "@storybook/react": "3.0.0",
     "@types/node": "^16.0.0"
   },
   "devDependencies": {
