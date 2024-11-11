@@ -49,9 +49,9 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-client": "workspace:*",
+    "@storybook/core-client": "6.2.0",
     "@storybook/global": "^5.0.0",
-    "@storybook/preview-api": "workspace:*",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/types": "workspace:*",
     "ts-dedent": "^2.0.0"
   },
