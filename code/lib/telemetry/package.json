@@ -45,7 +45,7 @@
   },
   "dependencies": {
     "@storybook/client-logger": "workspace:*",
-    "@storybook/core-common": "workspace:*",
+    "@storybook/core-common": "8.2.0",
     "@storybook/csf-tools": "workspace:*",
     "chalk": "^4.1.0",
     "detect-package-manager": "^2.0.1",
