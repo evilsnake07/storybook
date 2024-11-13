@@ -50,8 +50,8 @@
     "@storybook/builder-webpack5": "workspace:*",
     "@storybook/core-common": "workspace:*",
     "@storybook/global": "^5.0.0",
-    "@storybook/html": "workspace:*",
-    "@storybook/preset-html-webpack": "workspace:*",
+    "@storybook/html": "4.0.0",
+    "@storybook/preset-html-webpack": "7.0.0",
     "@types/node": "^16.0.0"
   },
   "devDependencies": {
