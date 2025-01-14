@@ -260,7 +260,7 @@
     "util": "^0.12.4",
     "vite": "^4.0.0",
     "vite-plugin-turbosnap": "^1.0.1",
-    "wait-on": "^7.0.1"
+    "wait-on": "^8.0.2"
   },
   "dependenciesMeta": {
     "ejs": {
