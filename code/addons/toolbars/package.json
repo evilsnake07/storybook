@@ -71,7 +71,7 @@
   "dependencies": {
     "@storybook/client-logger": "workspace:*",
     "@storybook/components": "workspace:*",
-    "@storybook/manager-api": "workspace:*",
+    "@storybook/manager-api": "8.2.0",
     "@storybook/preview-api": "workspace:*",
     "@storybook/theming": "workspace:*"
   },
