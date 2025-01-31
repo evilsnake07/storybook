@@ -55,7 +55,7 @@
     "lodash": "^4.17.21",
     "memoizerific": "^1.11.3",
     "semver": "^7.3.7",
-    "store2": "^2.14.2",
+    "store2": "^2.14.4",
     "telejson": "^7.2.0",
     "ts-dedent": "^2.0.0"
   },
