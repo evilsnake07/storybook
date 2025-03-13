@@ -86,7 +86,7 @@
     "@storybook/csf": "^0.1.0",
     "@storybook/global": "^5.0.0",
     "@storybook/manager-api": "workspace:*",
-    "@storybook/preview-api": "workspace:*",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/router": "workspace:*",
     "@storybook/types": "workspace:*",
     "prop-types": "^15.7.2",
