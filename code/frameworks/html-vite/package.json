@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "@storybook/addons": "workspace:*",
-    "@storybook/builder-vite": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
     "@storybook/client-api": "workspace:*",
     "@storybook/core-server": "workspace:*",
     "@storybook/html": "workspace:*",
