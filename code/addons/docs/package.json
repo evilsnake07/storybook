@@ -98,7 +98,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@jest/transform": "^29.3.1",
+    "@jest/transform": "^30.0.0",
     "@mdx-js/react": "^2.1.5",
     "@storybook/blocks": "workspace:*",
     "@storybook/client-logger": "workspace:*",
