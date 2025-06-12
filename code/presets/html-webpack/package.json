@@ -49,7 +49,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/core-webpack": "workspace:*",
+    "@storybook/core-webpack": "8.2.0",
     "@types/node": "^16.0.0",
     "html-loader": "^3.1.0",
     "webpack": "5"
