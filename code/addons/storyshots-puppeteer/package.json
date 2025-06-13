@@ -41,7 +41,7 @@
     "@storybook/node-logger": "workspace:*",
     "@storybook/types": "workspace:*",
     "@types/jest-image-snapshot": "^6.0.0",
-    "jest-image-snapshot": "^6.0.0"
+    "jest-image-snapshot": "^6.5.0"
   },
   "devDependencies": {
     "@types/puppeteer": "^5.4.0",
