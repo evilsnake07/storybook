@@ -98,7 +98,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@jest/transform": "^29.3.1",
+    "@jest/transform": "^30.0.0",
     "@mdx-js/react": "^2.1.5",
     "@storybook/blocks": "workspace:*",
     "@storybook/client-logger": "workspace:*",
@@ -108,7 +108,7 @@
     "@storybook/global": "^5.0.0",
     "@storybook/mdx2-csf": "^1.0.0",
     "@storybook/node-logger": "workspace:*",
-    "@storybook/postinstall": "workspace:*",
+    "@storybook/postinstall": "5.3.0",
     "@storybook/preview-api": "workspace:*",
     "@storybook/react-dom-shim": "workspace:*",
     "@storybook/theming": "workspace:*",
