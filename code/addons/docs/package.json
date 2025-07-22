@@ -100,7 +100,7 @@
   "dependencies": {
     "@jest/transform": "^29.3.1",
     "@mdx-js/react": "^2.1.5",
-    "@storybook/blocks": "workspace:*",
+    "@storybook/blocks": "7.0.0",
     "@storybook/client-logger": "workspace:*",
     "@storybook/components": "workspace:*",
     "@storybook/csf-plugin": "workspace:*",
@@ -109,7 +109,7 @@
     "@storybook/mdx2-csf": "^1.0.0",
     "@storybook/node-logger": "workspace:*",
     "@storybook/postinstall": "workspace:*",
-    "@storybook/preview-api": "workspace:*",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/react-dom-shim": "workspace:*",
     "@storybook/theming": "workspace:*",
     "@storybook/types": "workspace:*",
