@@ -47,9 +47,9 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/builder-vite": "workspace:*",
+    "@storybook/builder-vite": "0.1.22",
     "@storybook/core-common": "workspace:*",
-    "@storybook/core-server": "workspace:*",
+    "@storybook/core-server": "6.2.0",
     "@storybook/vue": "workspace:*",
     "magic-string": "^0.30.0",
     "vue-docgen-api": "^4.40.0"
