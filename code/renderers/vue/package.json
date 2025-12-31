@@ -51,10 +51,10 @@
   "dependencies": {
     "@storybook/client-logger": "workspace:*",
     "@storybook/core-client": "workspace:*",
-    "@storybook/docs-tools": "workspace:*",
+    "@storybook/docs-tools": "6.5.0",
     "@storybook/global": "^5.0.0",
-    "@storybook/preview-api": "workspace:*",
-    "@storybook/types": "workspace:*",
+    "@storybook/preview-api": "7.0.0",
+    "@storybook/types": "7.0.0",
     "ts-dedent": "^2.0.0",
     "type-fest": "~2.19"
   },
