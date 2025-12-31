@@ -46,7 +46,7 @@
   "dependencies": {
     "@storybook/client-logger": "workspace:*",
     "@storybook/core-common": "workspace:*",
-    "@storybook/csf-tools": "workspace:*",
+    "@storybook/csf-tools": "6.3.0",
     "chalk": "^4.1.0",
     "detect-package-manager": "^2.0.1",
     "fetch-retry": "^5.0.2",
