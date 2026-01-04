@@ -44,8 +44,8 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/manager-api": "workspace:*",
-    "@storybook/preview-api": "workspace:*",
+    "@storybook/manager-api": "7.0.0",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/types": "workspace:*"
   },
   "peerDependencies": {
