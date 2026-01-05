@@ -44,7 +44,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/channels": "workspace:*",
+    "@storybook/channels": "3.0.0",
     "@storybook/client-logger": "workspace:*"
   },
   "devDependencies": {
