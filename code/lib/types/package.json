@@ -44,7 +44,7 @@
     "prep": "../../../scripts/prepare/bundle.ts"
   },
   "dependencies": {
-    "@storybook/channels": "workspace:*",
+    "@storybook/channels": "3.0.0",
     "@types/babel__core": "^7.0.0",
     "@types/express": "^4.7.0",
     "file-system-cache": "2.3.0"
