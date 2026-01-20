@@ -85,9 +85,9 @@
     "@storybook/core-events": "workspace:*",
     "@storybook/csf": "^0.1.0",
     "@storybook/global": "^5.0.0",
-    "@storybook/manager-api": "workspace:*",
+    "@storybook/manager-api": "7.0.0",
     "@storybook/preview-api": "workspace:*",
-    "@storybook/router": "workspace:*",
+    "@storybook/router": "5.0.0",
     "@storybook/types": "workspace:*",
     "prop-types": "^15.7.2",
     "ts-dedent": "^2.0.0"
