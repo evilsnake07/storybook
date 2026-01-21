@@ -48,7 +48,7 @@
     "@storybook/client-logger": "workspace:*",
     "@storybook/core-events": "workspace:*",
     "@storybook/global": "^5.0.0",
-    "@storybook/preview-api": "workspace:*"
+    "@storybook/preview-api": "7.0.0"
   },
   "devDependencies": {
     "typescript": "~4.9.3"
