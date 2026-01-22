@@ -48,7 +48,7 @@
     "@storybook/csf": "^0.1.0",
     "@storybook/types": "workspace:*",
     "estraverse": "^5.2.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "prettier": "^2.8.0"
   },
   "devDependencies": {
