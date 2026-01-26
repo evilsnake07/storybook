@@ -83,8 +83,8 @@
     "@storybook/components": "workspace:*",
     "@storybook/core-events": "workspace:*",
     "@storybook/global": "^5.0.0",
-    "@storybook/manager-api": "workspace:*",
-    "@storybook/preview-api": "workspace:*",
+    "@storybook/manager-api": "7.0.0",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/types": "workspace:*",
     "ts-dedent": "^2.0.0"
   },
