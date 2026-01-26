@@ -50,11 +50,11 @@
   },
   "dependencies": {
     "@storybook/core-client": "workspace:*",
-    "@storybook/docs-tools": "workspace:*",
+    "@storybook/docs-tools": "6.5.0",
     "@storybook/global": "^5.0.0",
-    "@storybook/preview-api": "workspace:*",
+    "@storybook/preview-api": "7.0.0",
     "@storybook/types": "workspace:*",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "ts-dedent": "^2.0.0",
     "type-fest": "~2.19",
     "vue-component-type-helpers": "latest"
